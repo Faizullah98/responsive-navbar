@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: sans-serif;
     text-decoration: none;
+    color: #fff;
 }
 nav{
     display: flex;
@@ -11,10 +12,13 @@ nav{
     max-width: 1170px;
     margin: 0 auto;
     padding: 15px;
+    background-color: #5576d1;
+    color: #fff;
 }
 nav ul {
     list-style: none;
 }
 nav ul li a {
     margin-right: 2rem;
+    color: #fff;
 }
